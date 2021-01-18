@@ -29,3 +29,9 @@ const person = {
 
 class Color {}
 const red = new Color()
+
+// TYPE ANNOTATIONS
+// - Code we add to tell Typesecript what type of value a variable will refer to
+
+// TYPE INFERENCE
+// - Typescript tries to figure out what type of value a variable refers to
