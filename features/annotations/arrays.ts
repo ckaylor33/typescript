@@ -13,7 +13,7 @@ const car1 = carMakers[0]
 const myCar = carMakers.pop() // correctly infers that these will be strings
 
 // Prevent incompatible values
-carMakers.push(10) // tells us it should be a string instead
+carMakers.push('jrcncnwo')
 
 // Help with 'map'
 carMakers.map((car: string): string => {
